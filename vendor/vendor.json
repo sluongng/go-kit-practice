@@ -1,0 +1,69 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "O7qQ11QHEusWC1dIoqyoIQ+XTWg=",
+			"path": "encoding/json",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "VEC/8bwzLJ9QagBhwyT2HvxVa8U=",
+			"path": "fmt",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "NnkTbiudqJqy6K7FSOL/OU4VxdI=",
+			"path": "github.com/go-kit/kit/endpoint",
+			"revision": "a9ca6725cbbea455e61c6bc8a1ed28e81eb3493b",
+			"revisionTime": "2017-06-08T17:28:36Z"
+		},
+		{
+			"checksumSHA1": "zUPXahZsNk1RSbVMJDiyvLA+mgU=",
+			"path": "github.com/go-kit/kit/log",
+			"revision": "a9ca6725cbbea455e61c6bc8a1ed28e81eb3493b",
+			"revisionTime": "2017-06-08T17:28:36Z"
+		},
+		{
+			"checksumSHA1": "XQMqv+ySjx8P2577oXrT92/mN0k=",
+			"path": "github.com/go-kit/kit/transport/http",
+			"revision": "a9ca6725cbbea455e61c6bc8a1ed28e81eb3493b",
+			"revisionTime": "2017-06-08T17:28:36Z"
+		},
+		{
+			"checksumSHA1": "VIpP6PXCQPGznYeF7WjnkxnA6Hg=",
+			"path": "github.com/go-logfmt/logfmt",
+			"revision": "390ab7935ee28ec6b286364bba9b4dd6410cb3d5",
+			"revisionTime": "2016-11-15T14:25:13Z"
+		},
+		{
+			"checksumSHA1": "nPtmeqPgn6JuBZSt0ISjOGms6rY=",
+			"path": "github.com/go-stack/stack",
+			"revision": "7a2f19628aabfe68f0766b59e74d6315f8347d22",
+			"revisionTime": "2017-05-04T03:43:18Z"
+		},
+		{
+			"checksumSHA1": "YS2Hkq13J4fMkBjMmkwEJzkqYMY=",
+			"path": "github.com/kr/logfmt",
+			"revision": "b84e30acd515aadc4b783ad4ff83aff3299bdfe0",
+			"revisionTime": "2014-02-26T03:06:59Z"
+		},
+		{
+			"checksumSHA1": "ujkdYz/AOSZ4dVskaUGW9g/V/dM=",
+			"path": "golang.org/x/net/context",
+			"revision": "48359f4f600b3a2d5cf657458e3f940021631a56",
+			"revisionTime": "2017-03-18T09:30:21Z"
+		},
+		{
+			"checksumSHA1": "TT9JLp2pZ0u9jpGLA9PW0nM2Xt8=",
+			"path": "log",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "dLI61JazvsFBhufpTRFG4PvwB9s=",
+			"path": "net/http",
+			"revision": ""
+		}
+	],
+	"rootPath": "go-kit-practice"
+}
