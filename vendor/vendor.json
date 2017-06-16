@@ -49,10 +49,10 @@
 			"revisionTime": "2014-02-26T03:06:59Z"
 		},
 		{
-			"checksumSHA1": "ujkdYz/AOSZ4dVskaUGW9g/V/dM=",
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
 			"path": "golang.org/x/net/context",
-			"revision": "48359f4f600b3a2d5cf657458e3f940021631a56",
-			"revisionTime": "2017-03-18T09:30:21Z"
+			"revision": "ddf80d0970594e2e4cccf5a98861cad3d9eaa4cd",
+			"revisionTime": "2017-06-14T13:40:53Z"
 		},
 		{
 			"checksumSHA1": "TT9JLp2pZ0u9jpGLA9PW0nM2Xt8=",
